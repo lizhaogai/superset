@@ -1,4 +1,4 @@
 Superset
 =========
 
-Fork from superset 0.15.2
+Fork from airbnb/superset 0.15.2
